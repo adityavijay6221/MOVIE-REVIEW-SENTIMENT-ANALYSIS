@@ -39,7 +39,7 @@ Evaluation Metrics:
 - Accuracy: ~86–88% on test data
 - Loss Curves: Training and validation losses stabilized, indicating good generalization.
 - Precision & Recall: Balanced, showing minimal bias toward any class.
-- Confusion Matrix: Demonstrated effective classification with few false positives/negatives.
+
  ## Key Insights:
 - RNN effectively captured sequential dependencies, improving sentiment understanding.
 - Longer review texts occasionally reduced performance due to vanishing gradients — LSTM/GRU could further improve results.
